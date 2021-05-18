@@ -10,7 +10,7 @@ body{
 .container{
   width:80%;
   margin:auto;
-  overflow:hidden; 
+  overflow:hidden;
 }
 
 ul{
@@ -64,6 +64,18 @@ header a:hover{
   padding-bottom: 5px;
   text-align: center;
   }
+
+.pageclip-form__submit{
+  font: 15px/1.5 Courier New;
+  color: white;
+  background-color: #474747;
+  padding: 3px;
+  border: none;
+  border-radius: 2px;
+  transition-duration: 0.4s;
+  box-shadow: 2px 2px 5px #ffffff;
+  margin: 3px 3px 3px 3px;
+}
 
 .subbut{
     font: 15px/1.5 Courier New;
