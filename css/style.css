@@ -73,7 +73,7 @@ header a:hover{
     border: none;
     border-radius: 2px;
     transition-duration: 0.4s;
-    box-shadow: 2px 2px 5px #474747;
+    box-shadow: 2px 2px 5px #ffffff;
 }
 
 .subbut:hover{
@@ -87,11 +87,25 @@ header a:hover{
    border: none;
    padding: 3px;
    box-shadow: 2px 2px 5px #474747;
+   width: 200px;
 }
 
 .getemail{
   text-align:center;
   padding-top=50px;
+}
+
+/* contact us */
+.messagebox{
+  font: 15px/1.5 Courier New;
+  border-radius: 2px;
+  border: none;
+  margin: 10px 10px 10px 10px;
+  padding: 3px;
+  width: 415px;
+  height: 200px;
+  box-shadow: 2px 2px 5px #474747;
+
 }
 
 /*social links*/
