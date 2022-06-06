@@ -18,6 +18,8 @@ body{
   overflow:hidden;
 }
 
+
+
 ul{
   margin:0;
   padding:0;
@@ -152,6 +154,19 @@ img {
     padding-bottom: 1vw;
     max-height: 100px;
     height: 10vw
+}
+
+/*about us*/
+.about{
+  width:30%;
+  margin:auto;
+  overflow:hidden;
+  font: 18px/1.5 Caviar;
+  text-shadow: 2px 2px 3px #ffffff;
+  color: #000000;
+  font-weight: normal;
+  text-align: justify;
+  text-align-last: center;
 }
 
 /* Footer */
