@@ -78,7 +78,7 @@ header a:hover{
   }
 
 .pageclip-form__submit{
-  font: 15px/1.5 Caviar;
+  font: 15px/1.5 Montserrat;
   color: white;
   background-color: #474747;
   padding: 3px;
@@ -96,7 +96,7 @@ header a:hover{
 
 
 .subbut{
-    font: 15px/1.5 Caviar;
+    font: 15px/1.5 Montserrat;
     color: white;
     background-color: #474747;
     padding: 3px;
@@ -112,7 +112,7 @@ header a:hover{
 }
 
 .subbox{
-   font: 15px/1.5 Caviar;
+   font: 15px/1.5 Montserrat;
    border-radius: 2px;
    border: none;
    padding: 3px;
@@ -130,7 +130,7 @@ header a:hover{
 
 /* contact us */
 .messagebox{
-  font: 15px/1.5 Caviar;
+  font: 15px/1.5 Montserrat;
   border-radius: 2px;
   border: none;
   margin: 10px 10px 10px 10px;
