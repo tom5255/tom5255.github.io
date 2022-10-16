@@ -3,8 +3,13 @@
     src: url(../fonts/CaviarDreams.ttf)
 }
 
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf)
+}
+
 body{
-  font: 15px/1.5 Caviar;
+  font: 15px/1.5 Montserrat;
   padding:0;
   margin:0;
   background-color: #e8e8e8;
@@ -73,7 +78,7 @@ header a:hover{
   }
 
 .pageclip-form__submit{
-  font: 15px/1.5 Caviar;
+  font: 15px/1.5 Montserrat;
   color: white;
   background-color: #474747;
   padding: 3px;
@@ -91,7 +96,7 @@ header a:hover{
 
 
 .subbut{
-    font: 15px/1.5 Caviar;
+    font: 15px/1.5 Montserrat;
     color: white;
     background-color: #474747;
     padding: 3px;
@@ -107,7 +112,7 @@ header a:hover{
 }
 
 .subbox{
-   font: 15px/1.5 Caviar;
+   font: 15px/1.5 Montserrat;
    border-radius: 2px;
    border: none;
    padding: 3px;
@@ -125,7 +130,7 @@ header a:hover{
 
 /* contact us */
 .messagebox{
-  font: 15px/1.5 Caviar;
+  font: 15px/1.5 Montserrat;
   border-radius: 2px;
   border: none;
   margin: 10px 10px 10px 10px;
@@ -161,12 +166,11 @@ img {
   width:50%;
   margin:auto;
   overflow:hidden;
-  font: 18px/1.5 Caviar;
+  font: 18px/1.5 Montserrat;
   text-shadow: 2px 2px 3px #ffffff;
   color: #000000;
-  font-weight: normal;
-  text-align: justify;
-  text-align-last: center;
+  font-weight: 500;
+  text-align: center;
 }
 
 /* Footer */
